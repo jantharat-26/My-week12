@@ -1,3 +1,4 @@
+@extends('layouts.app')
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,7 +13,7 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam neque omnis facilis iure eaque id dolor earum
         recusandae, alias natus quisquam ipsum, vero doloremque vitae molestias aspernatur est, cum sapiente.</p>
     <a href="/">หน้าเเรก</a>
-   
+
 
 </body>
 
